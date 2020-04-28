@@ -246,12 +246,18 @@ NB: This is the responsive stylesheet of this theme.
     }
 }
 
-@media only screen and (min-width: 375px) and (max-width: 767px) {
+@media only screen and (min-width: 350px) and (max-width: 767px) {
     .portfolio-area .list-inline>li {
         padding-right: 0;
     }
     .portfolio-area ul.list-inline li {
         margin: 7px;
+    }
+    .logo {
+        padding: 5px;
+        font-size: 23px;
+        letter-spacing: 3px;
+        font-family: 'Kaushan Script';
     }
 }
 
