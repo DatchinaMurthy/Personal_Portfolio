@@ -135,7 +135,7 @@ NB: This is the responsive stylesheet of this theme.
         font-size: 30px;
     }
     .welcome-text h3 {
-        font-size: 18px;
+        font-size: 32px;
         margin-bottom: 20px;
     }
     .about-text-left {
@@ -259,6 +259,9 @@ NB: This is the responsive stylesheet of this theme.
         letter-spacing: 3px;
         font-family: 'Kaushan Script';
     }
+    .ah-words-wrapper {
+        font-weight: 22px;
+    }
 }
 
 @media only screen and (min-width: 411px) and (max-width: 767px) {}
@@ -268,7 +271,7 @@ NB: This is the responsive stylesheet of this theme.
         margin: 9px 0;
     }
     .welcome-text h1.ah-headline {
-        font-size: 40px;
+        font-size: 15px;
     }
     .welcome-text h3 {
         font-size: 25px;

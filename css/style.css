@@ -497,7 +497,7 @@ canvas {
     position: relative;
     margin-right: 10px;
     padding-bottom: 1px;
-    color: #a1a1a1;
+    color: black;
     font-weight: 700;
 }
 
@@ -515,12 +515,13 @@ canvas {
 
 .about-right .about-list li .title:after {
     position: absolute;
-    content: ':';
-    right: -8px;
+    align-content: space-between;
 }
 
 .about-right .about-list li .value {
     position: relative;
+    margin-left: 30px;
+    text-align: right;
 }
 
 .about-right .about-list li .value:before {
