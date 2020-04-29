@@ -432,6 +432,7 @@ canvas {
     border: 1px solid #ffcc5c;
     text-align: center;
     font-family: 'Kaushan Script';
+    margin-left: 20px;
 }
 
 #down-btn>.down-link {
